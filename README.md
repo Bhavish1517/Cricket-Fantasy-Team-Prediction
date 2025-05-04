@@ -1,24 +1,10 @@
 ## 👥 Collaborators
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Bhavish1517">
-        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Bhavish"/>
-        <br />Bhavish
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Govindarajannn1">
-        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Govind"/>
-        <br />Govind
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kritin-Thakur">
-        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Kritin"/>
-        <br />Kritin
-      </a>
-    </td>
-  </tr>
-</table>
+### [Bhavish](https://github.com/Bhavish1517)
+![Bhavish's Avatar](https://avatars.githubusercontent.com/u/Bhavish1517?v=4)
+
+### [Govind](https://github.com/Govindarajannn1)
+![Govind's Avatar](https://avatars.githubusercontent.com/u/Govindarajannn1?v=4)
+
+### [Kritin](https://github.com/Kritin-Thakur)
+![Kritin's Avatar](https://avatars.githubusercontent.com/u/Kritin-Thakur?v=4)
