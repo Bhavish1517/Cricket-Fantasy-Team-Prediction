@@ -9,5 +9,5 @@
 **Kritin Thakur**  
 [![Kritin](https://img.shields.io/badge/GitHub-Kritin_Thaur-yellow?style=flat-square&logo=github)](https://github.com/Kritin-Thakur)
 
-**Ishan**
+**Ishan**  
 [![Ishan](https://img.shields.io/badge/GitHub-IshankumarP-red?style=flat-square&logo=github)](https://github.com/IshankumarPr)
