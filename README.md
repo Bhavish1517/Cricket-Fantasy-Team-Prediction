@@ -1,7 +1,24 @@
 ## 👥 Collaborators
 
-[![Bhavish](https://img.shields.io/badge/GitHub-Bhavish1517-blue?style=flat-square&logo=github)](https://github.com/Bhavish1517)
-
-[![Govind](https://img.shields.io/badge/GitHub-Govindarajannn1-green?style=flat-square&logo=github)](https://github.com/Govindarajannn)
-
-[![Kritin](https://img.shields.io/badge/GitHub-Kritin-Thakur-green?style=flat-square&logo=github)](https://github.com/Kritin-Thakur)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Bhavish1517">
+        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Bhavish"/>
+        <br />Bhavish
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Govindarajannn1">
+        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Govind"/>
+        <br />Govind
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kritin-Thakur">
+        <img src="https://avatars.githubusercontent.com/u/your-avatar-id" width="100px" alt="Kritin"/>
+        <br />Kritin
+      </a>
+    </td>
+  </tr>
+</table>
