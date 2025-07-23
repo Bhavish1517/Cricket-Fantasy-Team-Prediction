@@ -38,7 +38,7 @@ This project implements a machine learning pipeline to predict the top-performin
 ## Future Work
 
 - Expand feature set to include contextual factors (weather, player fitness, etc.)
-- Integrate real-time data sources and automate prediction pipeline.
+- Use more rececnt advance ML models.
 - Develop a web or mobile app interface for easier access to predictions.
 - Experiment with ensemble models and deep learning approaches for improved accuracy.
 
